@@ -11,4 +11,4 @@ And again as Main Bot. the source code will not be in here
 # HELP
 
 if you recieve the error
-<img src="https://mattomc.xyz/img/y63oaJTOLh.png">
+<img src="https://mattomc.xyz/img/y63oaJTOLh.png"> make sure the bots role that was given when you added the bot to your server is above the role you want to hand out. THIS HAS TO BE DONE ON SEPERATE DISCORD SERVERS the main server doesn't matter. follow this guide https://github.com/y21/discordcaptcha/wiki/DiscordAPIError-50013-Missing-Permissions for more information on role Hierarchy
