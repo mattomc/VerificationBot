@@ -1,0 +1,11 @@
+{
+    "Main": {
+        "token": "TOKEN GOES HERE",
+        "prefix": "!",
+        "copyright": "2019 MainBot || Matto MC.",
+        "serverid": "SERVER ID",
+        "rolename": "Role Name",
+        "Activity": "PLAYING",
+        "presence": "Verification Bot"
+    }
+}
