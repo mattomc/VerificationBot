@@ -1,5 +1,4 @@
 {
-    "Main": {
         "token": "TOKEN GOES HERE",
         "prefix": "!",
         "copyright": "2019 MainBot || Matto MC.",
@@ -7,5 +6,4 @@
         "rolename": "Role Name",
         "Activity": "PLAYING",
         "presence": "Verification Bot"
-    }
 }
